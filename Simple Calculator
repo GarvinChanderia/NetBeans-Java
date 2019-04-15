@@ -163,7 +163,7 @@ public class GRC_Calc extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>                        
-
+///////////////////////////////////////////////////////////////////IMPORTANT-Enter This In The Source Code////////////////////////////////////////////////////////////////////////
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {                                         
 A.setText("");
 Operation.setText("");
@@ -215,7 +215,7 @@ Operation.setText("%");
         Double n3 = n1/n2*100;
         Ans.setText(""+n3);        // TODO add your handling code here:
     }                                        
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     /**
      * @param args the command line arguments
      */
